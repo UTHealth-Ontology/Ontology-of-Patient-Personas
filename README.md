@@ -1,2 +1,5 @@
 # Ontology of Patient Personas
- A IAO-based ontology describing patient specific personas
+
+An IAO-based ontology describing patient specific personas.
+
+
